@@ -1,0 +1,1 @@
+void ConvolutionMaskSimulate(const int width, const int height, const unsigned short *pIn, unsigned short *pOut, const unsigned char rshift, std::vector<std::vector<int>> kernel);
